@@ -13,8 +13,7 @@ After sending the data the server will send you a JSON representation of the mes
 ### Set-up
 1. Fork this repository and clone it from your personal GitHub Account
 1. In the Terminal, navigate to the newly created folder for this repository
-1. Install dependencies by running the command: `npm install`
-1. Install *Json-Server* via NPM, and globally, with the command: `npm install -g json-server`
+1. There is one dependecy for this project, Install *Json-Server* via NPM, globally, with the command: `npm install -g json-server`
 
 ### Workflow
 1. Run the command: `json-server server/guestbook.json`

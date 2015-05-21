@@ -1,0 +1,10 @@
+{
+  "name": "guestbook",
+  "version": "0.0.1",
+  "description": "forms and REST",
+  "main": "none",
+  "scripts": {
+  },
+  "author": "Dev League LLC",
+  "license": "MIT"
+}

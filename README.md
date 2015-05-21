@@ -16,5 +16,5 @@ After sending the data the server will send you a JSON representation of the mes
 1. Install *Json-Server* via NPM, and globally, with the command: `npm install -g json-server`
 
 ### Workflow
-1. Run the command: `json-server server/guestbook.json'
+1. Run the command: `json-server server/guestbook.json`
 1. Navigate to `localhost:3000` in your web browser

@@ -1,3 +1,41 @@
 {
-  "guestbook": []
+  "guestbook": [],
+  "guestbook-form.html": [
+    {
+      "name": "Kelemete Seto",
+      "id": 1
+    },
+    {
+      "name": "SMASH!",
+      "id": 2
+    },
+    {
+      "name": "SMASH!",
+      "id": 3
+    },
+    {
+      "name": "HULK",
+      "id": 4
+    },
+    {
+      "name": "HULK",
+      "id": 5
+    },
+    {
+      "name": "Iron Man",
+      "description": "is the man!",
+      "id": 6
+    },
+    {
+      "name": "Iron Man",
+      "description": "is the man!",
+      "id": 7
+    }
+  ],
+  "items": [
+    {
+      "name": "Hulk",
+      "id": 1
+    }
+  ]
 }
